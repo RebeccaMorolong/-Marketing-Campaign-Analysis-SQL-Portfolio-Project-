@@ -7,6 +7,25 @@ This project analyzes marketing campaign performance using SQL. The goal is to u
 - Segment customers by education, marital status, and region
 - Recommend which channels work best for which segments
 
+## Goal: Understand campaign performance and customer response patterns.
+  
+## SQL Skills: 
+CTEs, joins, case statements, aggregation, window functions
+
+##  Project Idea:
+
+Compare different campaign channels (email, SMS, social media)
+
+Analyze open rates, click-throughs, conversions
+
+Segment users based on behavior or demographics
+
+## Sample Questions to Answer:
+
+What was the ROI for each marketing channel?
+
+Which customer segment responded best to which campaign?
+
 ## 🧱 Schema
 - `customers`: customer demographics
 - `campaigns`: marketing campaign metadata
